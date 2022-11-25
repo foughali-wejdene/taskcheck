@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
 public class AppTest 
 {
     @Test
-    public final void EntityCheckable() {
+    public final void setDone() {
         fail("Not yet implemented"); // TODO
     }
 
