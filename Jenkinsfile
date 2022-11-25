@@ -5,7 +5,7 @@ pipeline {
     stages{
             stage('checkout'){
             steps {
-                    git branch: 'main', url: 'https://github.com/foughali-wejdene/integ.git'
+                    git branch: 'main', url: 'https://github.com/foughali-wejdene/taskcheck.git'
             }
         }
 
